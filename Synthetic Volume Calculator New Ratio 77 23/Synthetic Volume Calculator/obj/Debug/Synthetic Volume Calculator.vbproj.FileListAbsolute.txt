@@ -1,0 +1,156 @@
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Form1.resources
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Google Drive\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Form1.resources
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\Chad\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Form1.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Form1.resources
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+S:\Product Development\Software Development\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v2\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Form1.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator v3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.MainForm.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\cczilli\Desktop\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.MainForm.resources
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+D:\Users\Chad\Documents\GitHub\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.MainForm.resources
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+H:\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojResolveAssemblyReference.cache
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.MainForm.resources
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.Cache
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.CoreCompileInputs.cache
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.sqftForm.resources
+S:\Product Development\Software Development\Synthetic Volume Calculator Version 3\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.TrustInfo.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojAssemblyReference.cache
+S:\Product Development\Software Development\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+S:\Product Development\Software Development\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+S:\Product Development\Software Development\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+Z:\Product Development\Software Development\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojAssemblyReference.cache
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.config
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.application
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.exe
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.pdb
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Synthetic Volume Calculator.xml
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbprojAssemblyReference.cache
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.sqftForm.resources
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.MainForm.resources
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic_Volume_Calculator.Resources.resources
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.GenerateResource.cache
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.TrustInfo.xml
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe.manifest
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.application
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.exe
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.xml
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.pdb
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\chadc\Desktop\Synthetic Volume Calculator\Synthetic Volume Calculator\obj\Debug\Synthetic Volume Calculator.vbproj.CopyComplete
